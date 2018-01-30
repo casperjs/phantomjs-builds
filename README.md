@@ -2,8 +2,8 @@
 A repository for the sole purpose of holding on to historical builds of phantomjs.
 
 We have the following builds:
-* [phantomjs-linux-x86_64-2.5.0](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v2.5.0-alpha)
-* [phantomjs-linux-x86_64-2.1.1](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v2.1.3)
+* [phantomjs-linux-x86_64-2.5.0-alpha](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v2.5.0)
+* [phantomjs-linux-x86_64-2.1.3](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v2.1.3)
 * [phantomjs-linux-x86_64-2.1.1](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v2.1.1)
 * [phantomjs-linux-x86_64-1.9.8](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v1.9.8)
 * [phantomjs-linux-x86_64-1.9.7](https://github.com/BIGjuevos/phantomjs-builds/releases/tag/v1.9.7)
